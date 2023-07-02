@@ -1,0 +1,13 @@
+C:\Users\mutez\source\repos\Online_Examination_System\Online_Examination_System\bin\Debug\Online_Examination_System.exe.config
+C:\Users\mutez\source\repos\Online_Examination_System\Online_Examination_System\bin\Debug\Online_Examination_System.exe
+C:\Users\mutez\source\repos\Online_Examination_System\Online_Examination_System\bin\Debug\Online_Examination_System.pdb
+C:\Users\mutez\source\repos\Online_Examination_System\Online_Examination_System\obj\Debug\Online_Examination_System.csproj.AssemblyReference.cache
+C:\Users\mutez\source\repos\Online_Examination_System\Online_Examination_System\obj\Debug\Online_Examination_System.csproj.SuggestedBindingRedirects.cache
+C:\Users\mutez\source\repos\Online_Examination_System\Online_Examination_System\obj\Debug\Online_Examination_System.Form1.resources
+C:\Users\mutez\source\repos\Online_Examination_System\Online_Examination_System\obj\Debug\Online_Examination_System.Properties.Resources.resources
+C:\Users\mutez\source\repos\Online_Examination_System\Online_Examination_System\obj\Debug\Online_Examination_System.csproj.GenerateResource.cache
+C:\Users\mutez\source\repos\Online_Examination_System\Online_Examination_System\obj\Debug\Online_Examination_System.csproj.CoreCompileInputs.cache
+C:\Users\mutez\source\repos\Online_Examination_System\Online_Examination_System\obj\Debug\Online_Examination_System.exe
+C:\Users\mutez\source\repos\Online_Examination_System\Online_Examination_System\obj\Debug\Online_Examination_System.pdb
+C:\Users\mutez\source\repos\Online_Examination_System\Online_Examination_System\obj\Debug\Online_Examination_System.Login_UI.resources
+C:\Users\mutez\source\repos\Online_Examination_System\Online_Examination_System\obj\Debug\Online_Examination_System.ExamForm.resources
