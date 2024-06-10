@@ -24,11 +24,16 @@ Technologies used in the project:
 
 <h2>🖼️ Screenshots</h2>
 <h4>Loading page</h4>
-![Ekran görüntüsü 2024-06-10 214628](https://github.com/Mutez-Rahal/Online-Examination-System/assets/138363266/c95cabb9-f054-4adf-95f3-cfa6bd81de54)
+
+![Ekran görüntüsü 2024-06-10 214628](https://github.com/Mutez-Rahal/Online-Examination-System/assets/138363266/2e00432a-0bce-47d1-8fc8-7ee457563c02)
+
 <h4>Sign In Page</h4>
+
 ![Ekran görüntüsü 2024-06-10 214652](https://github.com/Mutez-Rahal/Online-Examination-System/assets/138363266/2dc0e7de-9bb4-4dbc-af08-e55be3407eda)
 <h4>Register Page</h4>
-![Ekran görüntüsü 2024-06-10 214709](https://github.com/Mutez-Rahal/Online-Examination-System/assets/138363266/80cde56d-0d28-45d5-b0fc-33d5a5a66df6)
-<h4>Questions page</h4>![Ekran görüntüsü 2024-06-10 214628](https://github.com/Mutez-Rahal/Online-Examination-System/assets/138363266/7c67b660-ebbe-4c26-8e22-115c10b44226)
 
-![Ekran görüntüsü 2024-06-10 222000](https://github.com/Mutez-Rahal/Online-Examination-System/assets/138363266/efd2b518-e842-4534-bd14-72005d17cd50)
+![Ekran görüntüsü 2024-06-10 214709](https://github.com/Mutez-Rahal/Online-Examination-System/assets/138363266/42781109-318c-422f-b6fc-f62a7a4f3a12)
+
+<h4>Questions page</h4>
+
+![Ekran görüntüsü 2024-06-10 222000](https://github.com/Mutez-Rahal/Online-Examination-System/assets/138363266/3abcf324-1e6a-453f-9106-64d6d1f1b453)
