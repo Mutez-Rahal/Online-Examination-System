@@ -37,3 +37,10 @@ Technologies used in the project:
 <h4>Questions page</h4>
 
 ![Ekran görüntüsü 2024-06-10 222000](https://github.com/Mutez-Rahal/Online-Examination-System/assets/138363266/3abcf324-1e6a-453f-9106-64d6d1f1b453)
+
+## Installation
+
+Clone the repository to your local machine:
+
+```sh
+https://github.com/Mutez-Rahal/Online-Examination-System.git
