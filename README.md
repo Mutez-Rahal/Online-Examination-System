@@ -19,8 +19,8 @@ Here're some of the project's best features:
 
 Technologies used in the project:
 
-*   <h4>Programming Languanges</h4> : C#
-*   <h4>Database</h4> : MS SQL Server
+*   <h4>Programming Languanges :</h4> * C#
+*   <h4>Database :</h4> * MS SQL Server
 
 <h2>🖼️ Screenshots</h2>
 <h3>Loading page</h3>
